@@ -1,1 +1,1 @@
-# odin-recipes
+Hey there! This is my first ever Odin html Project and it's about recipes. Thanks.# odin-recipes
